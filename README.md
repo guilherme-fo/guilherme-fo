@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Sempre busco aprender mais e adquirir experiência, sendo muito dedicado<br>🏃🏻‍♂️‍➡️ Gosto de praticar esportes, principalmente musculação e futebol. <br>🎯 Sou muito competitivo, sempre quero dar meu melhor sendo muito determinado para conquistar oque desejo. <br>🎲 Me considero uma pessoa muito paciente</p>
+<p align="left">📚 Sempre busco aprender mais e adquirir experiência, sendo muito dedicado.<br>🏃🏻‍♂️‍➡️ Gosto de praticar esportes, principalmente musculação e futebol. <br>🎯 Sou muito competitivo, sempre quero dar meu melhor sendo muito determinado para conquistar oque desejo. <br>🎲 Me considero uma pessoa muito paciente.</p>
 
 ###
 
